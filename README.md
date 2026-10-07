@@ -117,7 +117,7 @@
 
 ---
 
-## SUPPORT THE DEVELOPMENT OF TOMATO AND EHSAAN PLAY. | [EHSAAN PLAU GITHUB](https://github.com/ehsaanullah0/ehsaanplay)
+## SUPPORT THE DEVELOPMENT OF TOMATO AND EHSAAN PLAY. | [EHSAAN PLAY GITHUB](https://github.com/ehsaanullah0/ehsaanplay)
 through [my GitHub Sponsors page](https://github.com/sponsors/nsh07)
 or [my BuyMeACoffee page](https://coff.ee/nsh07):
 
