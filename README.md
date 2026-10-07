@@ -1,119 +1,123 @@
-<div align="center">
-  <img src="fastlane/metadata/android/en-US/images/featureGraphic.png">
+<p align="center">
+<img width="1796" height="876" alt="Ehsaan ULLAH (1)" src="https://github.com/user-attachments/assets/44e8dbff-9318-44aa-b51d-90b8854ab44b" />
+</p>
+<br>
 
-## About
+## THIS PROJECT IS PURLY INSPIRED WITH TOMATO POMODORO | THANKS TO NISHANT
 
-Tomato is a minimalist Pomodoro timer for Android based on Material 3 Expressive.
+# EHSAAN PLAY
 
-</div>
+# **Your watchlist. Your taste. Your space.**
+# [ehsaanplay.ai.studio](https://ehsaanplay.ai.studio/)
+### **STILL TAKING SCREENSHOTS OF MOVIES , TRY EHSAAN PLAY AND TRACK - what you watch feel in simple, calm, and enjoyable way.**
 
-<div align="center">
-
-<a href="https://hosted.weblate.org/engage/tomato/?utm_source=widget">
-  <img src="https://img.shields.io/weblate/progress/tomato?logo=weblate&labelColor=1a1a1a&color=2ecba9">
-</a>
-<a href="https://github.com/nsh07/tomato/releases/latest">
-  <img src="https://img.shields.io/github/v/release/nsh07/tomato?logo=github&labelColor=1a1a1a">
-</a>
-<a href="https://f-droid.org/packages/org.nsh07.pomodoro">
-  <img src="https://img.shields.io/f-droid/v/org.nsh07.pomodoro?logo=f-droid&labelColor=1a1a1a">
-</a>
-<a href="https://github.com/nsh07/tomato/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/nsh07/tomato?logo=gnu&color=blue&labelColor=1a1a1a">
-</a>
-<a href="https://discord.gg/MHhBQcxHu6">
-  <img src=https://img.shields.io/discord/1455603400254292196?logo=discord&label=Discord&labelColor=1a1a1a&color=5865F2>
+<a href="https://youtu.be/MXh9GdDQqJ4" target="_blank">
+  <img
+    width="200"
+    src="https://github.com/user-attachments/assets/bf633cc6-a8ed-4fca-b7b1-1aef2df991d3"
+    alt="Watch EHSAAN MOVIE Demo Video"
+  />
 </a>
 
 <p>
-  <a href="https://play.google.com/store/apps/details?id=org.nsh07.pomodoro">
-    <img src=".github/repo_photos/googleplay.png" width="200">
+  <a href="https://ehsaancolour.ai.studio/" target="_blank">
+   <img width="170" src="https://github.com/user-attachments/assets/00762234-2f32-40c0-8640-225206908e5a" />
   </a>
-  <a href="https://f-droid.org/packages/org.nsh07.pomodoro">
-      <img src="https://f-droid.org/badge/get-it-on.png" width="200">
+  <a href="https://ehsaanflow.ai.studio/" target="_blank">
+ <img width="170" src="https://github.com/user-attachments/assets/f1f073ca-70f6-418a-8ea8-dbf07780247f" />
   </a>
-  <a href="https://apt.izzysoft.de/fdroid/index/apk/org.nsh07.pomodoro">
-    <img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="200">
+  <a href="https://ehsaanqr.ai.studio/" target="_blank">
+ <img width="170" src="https://github.com/user-attachments/assets/432a43cc-999e-4f0d-8674-07443b19ade8" />
   </a>
+  <a href="https://ehsaanplay.ai.studio/" target="_blank">
+ <img width="170" src="https://github.com/user-attachments/assets/7d64243b-7eaa-49c8-bf67-897415f990ee" />
+  </a>
+  <a href="https://ehsaancompress.ai.studio/" target="_blank">
+ <img width="170" src="https://github.com/user-attachments/assets/d3a5b184-a158-4f39-abe6-a3795ef7c2eb" />
 </p>
-<p>
-  <a href="https://hosted.weblate.org/engage/tomato/">
-    <img src="https://hosted.weblate.org/widget/tomato/287x66-black.png" alt="Translation status" />
-  </a>
-</p>
-
-<br/>
-
-> *"It just might be the best looking timer app that I've ever seen"*
-
-\- [*HowToMen* on YouTube](https://www.youtube.com/watch?v=iwvHk4SUrMQ&t=280s)
-
-<br/>
-
-> *"... an app to support this habit helps me stay focused and get things done. Currently, that app
-is Tomato."*
-
-\- [*Android
-Authority*](https://www.androidauthority.com/best-new-android-apps-october-2025-3602966/)
-
-<br/>
-
+<br>
 </div>
 
-## Screenshots
+---
 
-<p align="center" width="100%">
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="25%"><img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="25%">
+# PREVIEW OF APP
+
+<!-- Desktop Screenshots -->
+
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/703cfbec-5781-4205-b1ba-00f725236443" alt="Desktop Screenshot 1">
 </p>
 
-### Features
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/367acd6c-a606-44ec-897e-12776918d48a" alt="Desktop Screenshot 2">
+</p>
 
-- Minimalist UI based on the latest Material 3 Expressive guidelines
-- Detailed statistics of work/study times in an easy to understand manner
-    - Stats for the current day visible at a glance
-    - Stats for the last week and last month shown in an easy to read, clean graph
-    - Additional stats for last week and month showing at what time of the day you're the most
-      productive
-- Customizable timer parameters
-- Support for Now Bar/Live Updates on Android 16 and later
+<p align="center">
+<img width="1366" height="760" alt="image" src="https://github.com/user-attachments/assets/d5ce31a0-f00c-41c8-a0de-255bf4cbfea0" />
+</p>
 
-## Translation
+<!-- Mobile Screenshots -->
 
-This project is [available on Hosted Weblate](https://hosted.weblate.org/engage/tomato/) for
-translation.
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/72d3bb7f-e49e-4b93-be42-f7218c715bc4" width="100%">
+    </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/248524bf-5305-4274-9fa9-ef5897bf1089" />
+  </td>
+    <td align="center">
+   <img width="720" src="https://github.com/user-attachments/assets/c466c0a7-8f41-4bfe-b863-d2635f31c210" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+   <img width="720" height="1600" src="https://github.com/user-attachments/assets/bd21b38e-68db-49ab-9250-2186c7dea6ab" />
+    </td>
+    <td align="center">
+   <img width="720" height="1600" src="https://github.com/user-attachments/assets/cf1c76a1-b220-4b18-9d2c-f4787ae065da" />
+    </td>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/e55f2eca-7d44-4da5-9bd4-bbc427e5e487" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+   <img src="https://github.com/user-attachments/assets/d68009b2-1cfb-4502-ab62-cf4ff0ab64f8" width="100%">
+    </td>
+   <td align="center">
+   <img width="720"  src="https://github.com/user-attachments/assets/4f6176fe-6fff-4266-995c-5aab1fffcd6a" />
+    </td>
+   <td align="center">
+   <img width="720" height="1600" src="https://github.com/user-attachments/assets/63f99fdf-426e-4f47-a1f7-8074c591b7c6" />
 
-You can contribute to this project even if you are not a developer by helping in
-translating this project into languages you know.
+</table>
+<details>
+<summary>View More Screenshots</summary>
 
-<a href="https://hosted.weblate.org/engage/tomato/">
-<img src="https://hosted.weblate.org/widget/tomato/horizontal-auto.svg" alt="Translation status" />
-</a>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e669e86-9a89-4467-8769-b34b8eb2bdb1" />
 
-## Download
+<img width="1366" height="560" alt="image" src="https://github.com/user-attachments/assets/25dc9b63-706c-41b1-b600-4bca05ec3a77" />
 
-- **Google Play Store** (recommended): Tomato is available on the Google Play Store.
-  [You can download it through this link](https://play.google.com/store/apps/details?id=org.nsh07.pomodoro).
-- **F-Droid** (recommended): Tomato is available on the official F-Droid repository. Simply open
-  your preferred F-Droid app and search for Tomato. Updates on F-Droid are generally a week late. To
-  get faster updates, you can install it through
-  the [IzzyOnDroid repository](https://apt.izzysoft.de/fdroid/).
-- **GitHub releases**: Alternatively, you can manually download and install APKs from
-  the [Releases](https://github.com/nsh07/Tomato/releases/latest) section of this repo (This method
-  is not recommended, use Google Play/F-Droid instead).
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/750616fd-4e8e-45ce-863f-31f5b6b0b47b" />
 
-> [!TIP]
-> To [verify](https://developer.android.com/studio/command-line/apksigner#usage-verify) the APK
-> downloaded from GitHub, use the following signing certificate fingerprints:
-> ```
->   SHA1: B1:4E:17:93:11:E8:DB:D5:35:EF:8D:E9:FB:8F:FF:08:F8:EC:65:08
-> SHA256: 07:BE:F3:05:81:BA:EE:8F:45:EC:93:E4:7E:E6:8E:F2:08:74:E5:0E:F5:70:9C:78:B2:EE:67:AC:86:BE:4C:3D
-> ```
-> The SHA256 and MD5 hashes of the individual APK files are also available in the `checksum.txt`
-> file for each release.
+<img width="1366" height="558" alt="image" src="https://github.com/user-attachments/assets/ed8667e6-2747-4c8b-93a1-135347678dd0" />
 
-## Donate
+<img width="1365" height="691" alt="image" src="https://github.com/user-attachments/assets/814ad037-95c0-4ead-acaa-7736e5558a66" />
 
-You can support Tomato's development
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1348ff16-4233-44dc-852d-3328fd6004a0" />
+
+<img width="1366" height="762" alt="image" src="https://github.com/user-attachments/assets/6b47fad8-f63f-4e8f-ba47-9de2467645f3" />
+
+<img width="1366" height="754" alt="image" src="https://github.com/user-attachments/assets/4bb54cca-8388-4378-8e4a-023702c46831" />
+
+</details>
+
+## It is **not a streaming platform**. EHSAAN PLAY is a personal library for discovering, organizing, rating, and keeping track of movies and TV series.
+
+---
+
+## SUPPORT THE DEVELOPMENT OF TOMATO AND EHSAAN PLAY. | [EHSAAN PLAU GITHUB](https://github.com/ehsaanullah0/ehsaanplay)
 through [my GitHub Sponsors page](https://github.com/sponsors/nsh07)
 or [my BuyMeACoffee page](https://coff.ee/nsh07):
 
@@ -124,39 +128,8 @@ or [my BuyMeACoffee page](https://coff.ee/nsh07):
   <img src=".github/repo_photos/bmc_qr.png" width="128px">
 </a>
 
-### Members and Sponsors
-
-- Shun Min Chang ([@jack24254029](https://github.com/jack24254029) on GitHub)
-- Chinedu Oji (on BuyMeACoffee)
-- Zach Alden (on BuyMeACoffee)
-
-## Special Thanks
-
-Many thanks to Dimu ([@pdimu](https://github.com/pdimu) on GitHub) for helping design multiple features starting with version 2.0.
-
-This app was made possible by these awesome libraries:
-
-### All platforms
-
-- [FileKit](https://filekit.mintlify.app/introduction) - Cross-platform file operations for Kotlin
-  Multiplatform
-- [MaterialKolor](https://github.com/jordond/materialkolor) - Dynamic Material 3 color schemes
-- [Room](https://developer.android.com/jetpack/androidx/releases/room) - SQLite Database
-- [Vico](https://guide.vico.patrykandpatrick.com/) - Powerful and extensible multiplatform chart
-  library
-
-### Desktop
-
-- [Java Audio Stack](https://github.com/bowbahdoe/java-audio-stack) - Repackaged and modularized
-  com.googlecode.soundlibs libraries
-
 ### Fonts
 
 - [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex) by
   Google<br/><img src=".github/repo_photos/google-sans-flex.jpg" width="400">
-
-## Star History
-
-Please give this repo a star if you liked my work
-
-[![Star History Chart](https://app.repohistory.com/api/svg?repo=nsh07/Tomato&type=Date&background=F9FAEF&color=4C662B)](https://app.repohistory.com/star-history)
+  
