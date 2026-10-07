@@ -3,7 +3,7 @@
 </p>
 <br>
 
-## THIS PROJECT IS PURLY INSPIRED WITH TOMATO POMODORO | THANKS TO NISHANT
+# THIS PROJECT IS PURLY INSPIRED WITH TOMATO POMODORO | THANKS TO NISHANT
 
 # EHSAAN PLAY
 
@@ -118,18 +118,32 @@
 ---
 
 ## SUPPORT THE DEVELOPMENT OF TOMATO AND EHSAAN PLAY. | [EHSAAN PLAY GITHUB](https://github.com/ehsaanullah0/ehsaanplay)
-through [my GitHub Sponsors page](https://github.com/sponsors/nsh07)
-or [my BuyMeACoffee page](https://coff.ee/nsh07):
+[**tomato** BuyMeACoffee page](https://coff.ee/nsh07) : [ehsaan support page](https://ehsaan.odoo.com/support)
 
-<a href="https://github.com/sponsors/nsh07">
-  <img src=".github/repo_photos/sponsors.png" width="128px">
+<img width="128PX" src="https://github.com/user-attachments/assets/7139284e-c5e5-424a-bd52-aa71ccc392a8" />
 </a>
 <a href="https://coff.ee/nsh07">
   <img src=".github/repo_photos/bmc_qr.png" width="128px">
 </a>
+
 
 ### Fonts
 
 - [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex) by
   Google<br/><img src=".github/repo_photos/google-sans-flex.jpg" width="400">
   
+## **EHSAAN ULLAH**
+
+<a href="mailto:worsmon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;
+<a href="https://github.com/ehsaanullah0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://ehsaan.odoo.com/">
+  <img src="https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+</a>
+
+<sub>Built with curiosity, too many tabs, and the occasional “let's see what happens.”</sub>
